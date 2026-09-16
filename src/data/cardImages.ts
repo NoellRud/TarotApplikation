@@ -1,0 +1,26 @@
+const CARD_IMAGES: { [key: number]: any } = {
+  0: require("../../assets/0.jpg"),
+  1: require("../../assets/1.jpg"),
+  2: require("../../assets/2.jpg"),
+  3: require("../../assets/3.jpg"),
+  4: require("../../assets/4.jpg"),
+  5: require("../../assets/5.jpg"),
+  6: require("../../assets/6.jpg"),
+  7: require("../../assets/7.jpg"),
+  8: require("../../assets/8.jpg"),
+  9: require("../../assets/9.jpg"),
+  10: require("../../assets/10.jpg"),
+  11: require("../../assets/11.jpg"),
+  12: require("../../assets/12.jpg"),
+  13: require("../../assets/13.jpg"),
+  14: require("../../assets/14.jpg"),
+  15: require("../../assets/15.jpg"),
+  16: require("../../assets/16.jpg"),
+  17: require("../../assets/17.jpg"),
+  18: require("../../assets/18.jpg"),
+  19: require("../../assets/19.jpg"),
+  20: require("../../assets/20.jpg"),
+  21: require("../../assets/21.jpg"),
+};
+
+export default CARD_IMAGES;
