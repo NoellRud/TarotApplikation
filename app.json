@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Divine Reading",
-    "slug": "DivineReading",
+    "slug": "divine-reading",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/TarotBack5Logo.png",
@@ -13,7 +13,7 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#0d2818",
-        "foregroundImage": "./assets/images/TarotBack5Logo.png"
+        "foregroundImage": "./assets/images/DivineLogo.png"
       },
       "predictiveBackGestureEnabled": false,
       "package": "com.shinal.divinereading"
