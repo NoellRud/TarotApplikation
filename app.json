@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TarotApplikation",
-    "slug": "TarotApplikation",
+    "name": "Divine Reading",
+    "slug": "DivineReading",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/TarotBack5Logo.png",
@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/TarotBack5Logo.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.anonymous.TarotApplikation"
+      "package": "com.shinal.divinereading"
     },
     "web": {
       "output": "static",
