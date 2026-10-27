@@ -31,7 +31,8 @@
           "image": "./assets/images/TarotBack5Logo.png",
           "imageWidth": 220
         }
-      ]
+      ],
+      "expo-build-properties"
     ],
     "experiments": {
       "typedRoutes": true,
